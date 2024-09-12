@@ -92,5 +92,8 @@
         <instance moduleIdRef="AMT103_1" modelIndex="10921" path="C:/Users/liams/Downloads/fritzing.0.9.3b/fritzing.0.9.3b.64.pc/fritzing-parts/core/AMT103_1.fzp">
             <views/>
         </instance>
+        <instance moduleIdRef="Dual Molex Connecotr_7bd4fcca94354baa2c88786153a8334f_4" modelIndex="11179" path="C:/Users/liams/Documents/Fritzing/parts/user/Dual Molex Connecotr_7bd4fcca94354baa2c88786153a8334f_4.fzp">
+            <views/>
+        </instance>
     </instances>
 </module>
